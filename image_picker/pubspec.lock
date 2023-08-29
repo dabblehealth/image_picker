@@ -323,9 +323,11 @@ packages:
   image_picker_ios:
     dependency: "direct main"
     description:
-      path: "../image_picker_ios"
-      relative: true
-    source: path
+      path: image_picker_ios
+      ref: "v1.0.0"
+      resolved-ref: "64868625974bf3f88b350d38d77300f612fad2b2"
+      url: "https://github.com/dabblehealth/image_picker"
+    source: git
     version: "0.8.8+1"
   image_picker_linux:
     dependency: "direct main"

@@ -249,7 +249,7 @@
     },
     {
       "name": "image_picker_ios",
-      "rootUri": "../../image_picker_ios",
+      "rootUri": "file:///Users/vasylshponarskyi/.pub-cache/git/image_picker-64868625974bf3f88b350d38d77300f612fad2b2/image_picker_ios",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -476,7 +476,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-08-29T05:55:22.738513Z",
+  "generated": "2023-08-29T05:59:35.110197Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
